@@ -1,4 +1,4 @@
-package com.hartakuipos;
+package info.hartaku.epos;
 
 import com.facebook.react.ReactActivity;
 
